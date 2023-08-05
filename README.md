@@ -14,7 +14,7 @@
 
 ## Distribute
 
-- [Service Name](Page Link)
+- [Открыть сайт](https://nikolaymehanikov.github.io/Lease-Cars/)
 
 
 ## Developers
