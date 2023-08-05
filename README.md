@@ -4,18 +4,17 @@
 </p>
 
 <p align="center">
-   <img src="" alt="Unity Version">
-   <img src="" alt="Game Version">
-   <img src="" alt="License">
+   <img src="" alt="Открыть сайт">
 </p>
 
 ## About
 
-About Text Here
+Представляю простой сайт аренды автомабилей.
 
-## Documentation
+Данный проект сделан исключительно для моего портфолио и не несет никакой иной функционал.
 
-Documentation Here
+Вся основа написана на HTML/CSS. JavaScript использовался для реализации "бургер-меню" для мобильной версии приложения.
+!(Мобильная версия сайта находится в тестовом режиме)!
 
 ## Distribute
 
@@ -24,6 +23,6 @@ Documentation Here
 
 ## Developers
 
-- [Delevoper Name](GitHub Profile Link)
+- [Nikolay Mehanikov]([GitHub Profile Link](https://github.com/NikolayMehanikov)https://github.com/NikolayMehanikov) 
 
 ## License
