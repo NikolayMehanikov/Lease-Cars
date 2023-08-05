@@ -1,6 +1,6 @@
 # Lease Cars - аренда автомобилей
 <p align="center">
-      <img src="Project Logo Url" width="726">
+      <img src="https://i.postimg.cc/13DPJcsH/Vector.png" alt="Логотип проекта" width="726">
 </p>
 
 ## About
