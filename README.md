@@ -1,4 +1,4 @@
-# LeaseCars
+# Lease Cars - аренда автомобилей
 <p align="center">
       <img src="Project Logo Url" width="726">
 </p>
