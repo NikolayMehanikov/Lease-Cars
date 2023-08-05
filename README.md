@@ -23,6 +23,5 @@
 
 ## Developers
 
-- [Nikolay Mehanikov]((https://github.com/NikolayMehanikov)) 
-
+- [Nikolay Mehanikov] (https://github.com/NikolayMehanikov)
 ## License
