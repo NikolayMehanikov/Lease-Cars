@@ -1,6 +1,6 @@
 # Lease Cars - аренда автомобилей
 <p align="center">
-      <img src="https://ibb.co/h1ppZ73" alt="Логотип проекта" width="726">
+      <img src="https://i.ibb.co/h1ppZ73/Vector.png" alt="Логотип проекта" width="90">
 </p>
 
 ## About
