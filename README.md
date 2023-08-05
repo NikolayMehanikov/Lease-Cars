@@ -3,10 +3,6 @@
       <img src="Project Logo Url" width="726">
 </p>
 
-<p align="center">
-   <img src="" alt="Открыть сайт">
-</p>
-
 ## About
 
 Представляю простой сайт аренды автомабилей.
