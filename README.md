@@ -23,6 +23,6 @@
 
 ## Developers
 
-- [Nikolay Mehanikov]([GitHub Profile Link](https://github.com/NikolayMehanikov)https://github.com/NikolayMehanikov) 
+- [Nikolay Mehanikov]([GitHub Profile Link](https://github.com/NikolayMehanikov)) 
 
 ## License
